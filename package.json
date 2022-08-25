@@ -1,0 +1,36 @@
+{
+  "name": "react-three-fiber-game-state-and-sprites",
+  "version": "1.0.0",
+  "description": "Early stages of building a \"React Fox\" clone of a popular shooter. \"Do a Barrel Roll\" (Eventually)",
+  "keywords": [
+    "react",
+    "react-three-fiber",
+    "three.js",
+    "game",
+    "recoil"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "react-three-fiber": "4.0.23",
+    "recoil": "0.0.10",
+    "three": "0.115.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
